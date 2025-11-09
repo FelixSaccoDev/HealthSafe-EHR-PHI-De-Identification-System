@@ -1,4 +1,4 @@
-# De-Identification of PHI in Electronic Health Records (EHR)
+# HealthSafe – EHR PHI De-Identification System
 
 
 
